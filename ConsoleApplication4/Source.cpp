@@ -302,17 +302,7 @@ int main()
 		}
 		}
 	}
-
-	//edit(rs, 's');
-	//edit(rs, 'n');
-	//erase(rs, 'n');
-	//erase(rs, 's');
-	//sortByNumber(rs);
-	//sortByNumber_2(rs);
-	//sortByName(rs);
 	cout << endl << endl;
-	//printAll(rs);
-	//printAllTelephone(rs);
 
 	delete[] rs;
 
