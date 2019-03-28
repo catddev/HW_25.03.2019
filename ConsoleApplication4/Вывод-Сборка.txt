@@ -1,0 +1,7 @@
+1>------ Сборка начата: проект: ConsoleApplication4, Конфигурация: Debug Win32 ------
+1>Source.cpp
+1>c:\users\айкеновад\source\repos\consoleapplication4\consoleapplication4\source.cpp(205): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+1>c:\users\айкеновад\source\repos\consoleapplication4\consoleapplication4\source.cpp(213): warning C4101: str: неиспользованная локальная переменная
+1>ConsoleApplication4.vcxproj -> C:\Users\айкеновад\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe
+1>Сборка проекта "ConsoleApplication4.vcxproj" завершена.
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
